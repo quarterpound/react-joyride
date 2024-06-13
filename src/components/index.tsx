@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { ReactNode } from 'react';
-import isEqual from '@gilbarbara/deep-equal';
+import isEqual from 'deep-equal';
 import is from 'is-lite';
 import treeChanges from 'tree-changes';
 
